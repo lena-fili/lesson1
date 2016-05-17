@@ -1,0 +1,6 @@
+body{
+	background: pink;
+	font-size: 72px;
+	margin: 20px 15px;
+	color: black;
+}
